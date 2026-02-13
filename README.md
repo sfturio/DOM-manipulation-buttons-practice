@@ -23,5 +23,9 @@ Simple project to practice DOM manipulation and button interactions using JavaSc
 - DOM manipulation
 
 ---
+## Live Demo:
+https://sfturio.github.io/DOM-manipulation-buttons-practice/
 
 This project is part of my Web Development studies.
+
+
